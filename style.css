@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed|Lobster');
+
+h1 {
+  font-family: 'Lobster', cursive;  
+}
+
+#pinkwhite {
+    background-color: pink;
+    color: white;
+}
+
+.song {
+    border: 2px solid navy;
+    padding: 5px;
+    margin: 3px;
+    font-family: 'Barlow Condensed', sans-serif;
+    width: 600px;
+}
