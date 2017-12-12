@@ -16,3 +16,15 @@ h1 {
     font-family: 'Barlow Condensed', sans-serif;
     width: 600px;
 }
+#xxxtentacion {
+    background-color: Black;
+    color: purple;
+}
+
+.song {
+    border: 2px solid pink;
+    padding: 5px;
+    margin: 3px;
+    font-family: 'Barlow Condensed', sans-serif;
+    width: 600px;
+}
